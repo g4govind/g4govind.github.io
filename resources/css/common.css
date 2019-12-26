@@ -1,0 +1,30 @@
+html,
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    position: relative;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+    line-height: 76px;
+}
+
+.header{
+    background:#84c8ff;
+    height: 80px;
+}
+.footer{
+    background:#4CAF50;
+    height: 80px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
